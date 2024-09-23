@@ -1,0 +1,21 @@
+{
+    "config": {
+      "step": {
+        "user": {
+          "data": {
+            "account_id": "Account ID",
+            "api_key": "API Token"
+          }
+        }
+      },
+      "error": {
+        "cannot_connect": "Impossibile connettersi al servizio. Controlla le credenziali inserite, la tua connessione ad internet e riprova.",
+        "invalid_auth": "Le credenziali inserite sono errata, riprova.",
+        "unknown": "Errore sconosciuto, controlla il log."
+      },
+      "abort": {
+        "single_instance_allowed": "E' consentita una sola istanza di questa integrazione."
+      }
+    }
+}
+  
